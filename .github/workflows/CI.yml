@@ -39,5 +39,3 @@ jobs:
     - name: build
       run: go build .
       
-    - name: Go Release Binary
-      uses: ngs/go-release.action@v1.0.2
